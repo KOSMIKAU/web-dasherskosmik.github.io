@@ -52,7 +52,7 @@
 - **All Objects Working** - In the current state of Web Dashers, you might notice most objects seem to be bugged and/or not showing.
 
 ### Come try out the WIP Web Dashers demo at:
-**[web-dashers.github.io](https://web-dashers.github.io/)**
+**[web-dashers (kosmik demo fork)](https://kosmikau.github.io/web-dasherskosmik.github.io/)**
 
 *(Last updated 5/16/2026)*
 ---
