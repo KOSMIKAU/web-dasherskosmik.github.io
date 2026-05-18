@@ -10,7 +10,7 @@
   <strong>A Modded Geometry Dash demo with extra features added! (See list below!) </strong>
   </p>
   <a 
-  href="https://web-dashers.github.io/" 
+  href="https://kosmikau.github.io/web-dasherskosmik.github.io/" 
   target="_blank">
     <img 
     width="279" 
